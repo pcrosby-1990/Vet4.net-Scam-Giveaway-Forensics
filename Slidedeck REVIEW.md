@@ -2,7 +2,7 @@
 Presented by: Patrick J Crosby Date: October 27, 2025
 
 Slide 1: Title & Executive Summary
-VeChain's infrastructure is technically sound
+VeChain’s infrastructure is technically sound
 
 Forensic review reveals governance centralization, wallet activation vulnerabilities, and limited fraud detection
 
@@ -36,7 +36,7 @@ No semantic tagging of transactions or snapshots
 
 Risks:
 
-Product-level fraud prevention doesn't extend to protocol-level behavior
+Product-level fraud prevention doesn’t extend to protocol-level behavior
 
 Wallets and validators can act without semantic accountability
 
@@ -67,12 +67,12 @@ Minor issues: gas reservation, hash generation
 No behavioral or semantic audit coverage
 
 Slide 6: Summary Table
-CategoryConcernRisk Level
-Wallet ActivationNo uniqueness enforcement, Sybil riskHigh
-Fraud DetectionNo wallet-level scoring or forensic metadataMedium
-Validator GovernanceCentralized approval, whale votingHigh
-Snapshot IntegrityNo semantic tagging or ethical filtersMedium
-Audit CoverageStrong technical audit, limited behavioral scopeLow
+Category	Concern	Risk Level
+Wallet Activation	No uniqueness enforcement, Sybil risk	High
+Fraud Detection	No wallet-level scoring or forensic metadata	Medium
+Validator Governance	Centralized approval, whale voting	High
+Snapshot Integrity	No semantic tagging or ethical filters	Medium
+Audit Coverage	Strong technical audit, limited behavioral scope	Low
 Slide 7: Problem Actors Identified
 Flagged Wallets:
 
@@ -122,3 +122,4 @@ For VeChain Foundation:
 Address governance centralization  
 Expand fraud detection beyond supply chain  
 Adopt semantic tagging and behavioral scoring
+
