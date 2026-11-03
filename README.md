@@ -24,7 +24,3 @@ On December 19, 2020, a total of 751,670 VET (VeChain Tokens) were illicitly tra
 
 Plus 48 screenshots (wallet views and transaction captures, 2020-12-19 to 2025-10-26).
 Verify any file with `sha256sum <file>`.
-
-## Other material
-
-`codex/` holds the separate Codex project (the fragment editor and its governance drafts). It is not part of this case file.
