@@ -1,4 +1,13 @@
-# Vet4.net scam: forensic case file (December 19, 2020)
+# Vet4.net scam: forensic case file
+
+## Timeline (from the VeChain chain; verify any block on a VeChain explorer)
+
+| event | block | Pacific (local) | UTC |
+|---|---|---|---|
+| Theft: 751,670.96 VET sent from the victim wallet, TX `0xf3425b8f2c29e843d05895a4b0f285423d24ceaa1fb0086d6f4e49176be66773` | 7,783,840 | 2020-12-18 16:09:00 PST | 2020-12-19 00:09:00 |
+| Funds reach the Binance 1 hot wallet (after three intermediate wallets) | 7,787,321 | 2020-12-19 01:49:10 PST | 2020-12-19 09:49:10 |
+
+## Summary
 
 On December 19, 2020, a total of 751,670 VET (VeChain Tokens) were illicitly transferred from a source wallet (WALLET_4) into the Binance 1 Hot Wallet, a high-volume exchange address. Within minutes, the funds were rapidly dispersed into multiple laundering clusters, including wallets 0xE0c37c735f230F58c16d8BA0f8dfb2f059499802 and 0x6471638bd0d15f430757E0407837149B5377053b. These clusters exhibited classic laundering behaviors: fan-out dispersals, elevated gas usage, and cross-chain swaps designed to obscure the asset trail. The incident highlights systemic laundering tactics and the urgent need for forensic readiness and AML enforcement across digital asset platforms.
 
